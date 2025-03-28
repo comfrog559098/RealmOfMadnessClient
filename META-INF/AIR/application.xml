@@ -1,11 +1,11 @@
-<application xmlns="http://ns.adobe.com/air/application/32.0">
+<application xmlns="http://ns.adobe.com/air/application/50.2">
   <id>realmOfMadness</id>
   <filename>Realm Of Madness</filename>
   <name>Realm Of Madness</name>
   <versionNumber>1.0.0</versionNumber>
   <architecture>64</architecture>
   <initialWindow>
-    <content>WebMain.swf</content>
+    <content>RoM.swf</content>
     <title>Realm of Madness</title>
     <visible>true</visible>
     <renderMode>direct</renderMode>
