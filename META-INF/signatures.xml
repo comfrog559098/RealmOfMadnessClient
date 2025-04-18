@@ -8,14 +8,14 @@
           <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
         </Transforms>
         <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/>
-        <DigestValue>VEcFpjnl19UcD+kr8SGNEpY2N7ixEof9nO6dMnBiN+0=</DigestValue>
+        <DigestValue>GJtOPkKB08r7cD1LKHBAmh8FxWUEql7D8NOpFbu8IUk=</DigestValue>
       </Reference>
     </SignedInfo>
-    <SignatureValue Id="PackageSignatureValue">CBWZD4XFtK+GBPY9BUTbI884ZTudFK6Qtc5m7+PDvBrvVfU5OaMdeI3Cz4GWw8WpYEppNayL980e
-byy6aUajbm1vGZ4My/DkYLv6GLiL+7mDDz2R18kyIT47CmLVq9snAIIp7aTKCK0ihsROFQcmnqVK
-NJAO4tP+41zsGERPOtKYAwgmtoJAauu4HXu74IhhN71B00mCAD6cn5qo318cOCXOqef8ZgBFp3Ok
-1mcRLjUH7zXLWkjibuG/P2LqAAAnDTc8HcYgBN7AfKS7m0GkDukDuC9YPD+3FRqzU/2K+T2Rb2rB
-+1a3DCTkeROrkjKiIAvNp0OhFP4nlLxkoBguvw==</SignatureValue>
+    <SignatureValue Id="PackageSignatureValue">WYhDij9t4Ie+76YeXwy0jHTReUw4+9f6v1Ct4O7wCOem5729VbhyQ1Igo2AcbUbiIIR4bw0RrcCJ
+fI06b7MUb2AeCvyRddZRMC4b0SIiF7CqcN5NJUCqPVVasg152jU3P4h+dmXoMIlx3ObgB3hJ2WvO
+MUNOqeDyQT9ttOebhwAj8uEMvh7eN622xUaX/WURspbSppDbLpqb5Eb0uhRkHJFBvUUNYY80Sjuq
+KAHxkxErHG/0QFWzB5T3FX3FZ72HK0+1cI08qMrDaZndq269YEivrYlIz6ikWwnUfNs4IKT7fpEa
+6ign4zPUckr44RCXNBDhQbxWXeqVX0TqPt+11A==</SignatureValue>
     <KeyInfo>
       <X509Data>
         <X509Certificate>MIIC4DCCAcigAwIBAgIbLTZjOWMyOTNlOjE1ZGE5MTY4YzZlOi04MDAwMA0GCSqGSIb3DQEBBQUA
@@ -35,7 +35,7 @@ fPKrRmKTt6ZNcRDSiHwaRnGEQXXXgW/iQRKuxnWoY+MMz9U5uaYDoIAB9+ltbYrlmAA+UiCWRmw=</X5
     </KeyInfo>
     <Object>
       <Manifest Id="PackageContents">
-        <Reference URI="ClientIcon.png"><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod><DigestValue>soz3lb62zmg8zYPmiduIGUy60YlobN/VtKUYvBJG8us=</DigestValue></Reference><Reference URI="META-INF/AIR/application.xml"><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod><DigestValue>reGNoP8m+6w5WudfwBAkf7RN5/+MLUg3jDtsYE5Bol4=</DigestValue></Reference><Reference URI="RoM.swf"><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod><DigestValue>uvvj4KHOzs3eFyvTXIv7UOXjskKbD+MNXZ+gdoC1iXw=</DigestValue></Reference><Reference URI="mimetype"><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod><DigestValue>0/oCb84THKMagtI0Dy0KogEu92TegdesqRr/clXct1c=</DigestValue></Reference>
+        <Reference URI="ClientIcon.png"><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod><DigestValue>soz3lb62zmg8zYPmiduIGUy60YlobN/VtKUYvBJG8us=</DigestValue></Reference><Reference URI="META-INF/AIR/application.xml"><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod><DigestValue>reGNoP8m+6w5WudfwBAkf7RN5/+MLUg3jDtsYE5Bol4=</DigestValue></Reference><Reference URI="RoM.swf"><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod><DigestValue>zX22xYOFBEBjojs/GLWFB1Mej0rsFnipc9k4X+PvJTg=</DigestValue></Reference><Reference URI="mimetype"><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod><DigestValue>0/oCb84THKMagtI0Dy0KogEu92TegdesqRr/clXct1c=</DigestValue></Reference>
       </Manifest>
     </Object>
     
